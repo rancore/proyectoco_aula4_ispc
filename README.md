@@ -8,7 +8,6 @@ Su origen radica en que es muy costoso rectificar los posibles errores que se de
 ## Fases de desarrollo de software
 La metodología para el desarrollo de software es un modo sistemático de realizar, gestionar y administrar un proyecto para llevarlo a cabo con grandes posibilidades de éxito. Esta sistematización indica cómo se divide un proyecto en módulos más pequeños para normalizar cómo se administra el mismo.
 Así, una metodología para el desarrollo de software son los procesos a seguir sistemáticamente para idear, implementar y mantener un producto de software desde que surge la necesidad del producto hasta que se cumple el objetivo por el cual fue creado.
-
 De esta forma, las etapas del desarrollo de software son las siguientes:
 
 ### Planificación
