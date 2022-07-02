@@ -68,7 +68,7 @@ En cada fase se crea la planificación de las pruebas y los casos de pruebas par
 ### Modelo Big Bang
 Probablemente este sea el modelo más simple, ya que necesita poca planificación, mucha programación y muchos fondos. Este modelo tiene como concepto principal la creación del universo; así, si se reúnen fondos y programación, se consigue el mejor producto de software.
 
-# Ceremonias
+# Ceremonias Scrum
 
 Las ceremonias que se realizan a lo largo del proyecto son: Sprint Planning Meeting, Daily Scrum Meeting, Sprint Review Meeting y Sprint Retrospective Meeting.
 
